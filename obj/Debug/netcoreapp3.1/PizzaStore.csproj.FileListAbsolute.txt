@@ -1,0 +1,13 @@
+C:\Users\Alexander Curnow\workspace\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.exe
+C:\Users\Alexander Curnow\workspace\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.deps.json
+C:\Users\Alexander Curnow\workspace\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.runtimeconfig.json
+C:\Users\Alexander Curnow\workspace\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.runtimeconfig.dev.json
+C:\Users\Alexander Curnow\workspace\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.dll
+C:\Users\Alexander Curnow\workspace\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.pdb
+C:\Users\Alexander Curnow\workspace\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.csprojAssemblyReference.cache
+C:\Users\Alexander Curnow\workspace\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\Alexander Curnow\workspace\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.AssemblyInfo.cs
+C:\Users\Alexander Curnow\workspace\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Curnow\workspace\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.dll
+C:\Users\Alexander Curnow\workspace\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.pdb
+C:\Users\Alexander Curnow\workspace\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.genruntimeconfig.cache
